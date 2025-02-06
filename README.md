@@ -27,6 +27,6 @@ Then head to `http://127.0.0.1:3991/app` to browse around.
 deno task test
 ```
 
-### Other platforms
+## Other platforms
 
 Examples for Deno runtime: https://github.com/fullsoak/examples
