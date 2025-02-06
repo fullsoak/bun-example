@@ -1,0 +1,10 @@
+@import "/components/Shared/styles.css";
+
+.main {
+  color: #333;
+  padding: 1rem;
+}
+
+button + button {
+  margin-left: 5px;
+}
