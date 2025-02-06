@@ -1,4 +1,4 @@
-# fullsoak example on Bun
+# fullsoak examples on Bun
 
 FullSoak is a no-build TypeScript fullstack SSR-first framework. This repo hosts
 several examples using FullSoak.
@@ -9,7 +9,7 @@ please feel free to open a PR / discussion. Thank you for your interest!
 
 ## Available commands
 
-This example is prepared for the Bun runtime.
+This repo is prepared for the Bun runtime.
 
 Install Bun: https://bun.sh/docs/installation
 
@@ -24,7 +24,7 @@ Then head to `http://127.0.0.1:3991/app` to browse around.
 ### Run tests
 
 ```bash
-deno task test
+bun test
 ```
 
 ## Other platforms
