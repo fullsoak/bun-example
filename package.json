@@ -1,13 +1,13 @@
 {
   "name": "fullsoak-bun-example",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "author": "",
   "main": "src/main.ts",
   "repository": {
     "url": "https://github.com/fullsoak/bun-example.git"
   },
   "dependencies": {
-    "@fullsoak/fullsoak": "npm:@jsr/fullsoak__fullsoak@^0.6.2",
+    "@fullsoak/fullsoak": "npm:@jsr/fullsoak__fullsoak@^0.7.0",
     "preact": "^10.25.4",
     "react": "npm:@preact/compat",
     "react-dom": "npm:@preact/compat"
