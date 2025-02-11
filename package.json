@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "@fullsoak/fullsoak": "npm:@jsr/fullsoak__fullsoak@^0.7.0",
-    "preact": "^10.25.4",
+    "preact": "npm:preact@^10.25.4",
     "react": "npm:@preact/compat",
     "react-dom": "npm:@preact/compat"
   },
