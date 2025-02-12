@@ -4,7 +4,7 @@
     "": {
       "name": "fullsoak-bun-example",
       "dependencies": {
-        "@fullsoak/fullsoak": "npm:@jsr/fullsoak__fullsoak@0.7.1",
+        "@fullsoak/fullsoak": "npm:@jsr/fullsoak__fullsoak@^0.7.1",
         "preact": "npm:preact@^10.25.4",
         "react": "npm:@preact/compat",
         "react-dom": "npm:@preact/compat",

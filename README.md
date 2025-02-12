@@ -29,4 +29,4 @@ bun test
 
 ## Other platforms
 
-Examples for Deno runtime: https://github.com/fullsoak/examples
+Examples for Deno runtime: https://github.com/fullsoak/deno-examples
