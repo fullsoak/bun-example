@@ -1,7 +1,5 @@
 {
   "editor.tabSize": 2,
-  "deno.enable": true,
-  "deno.config": "./deno.jsonc",
   "editor.formatOnSave": true,
   "[typescript]": {
     "editor.defaultFormatter": "denoland.vscode-deno"
